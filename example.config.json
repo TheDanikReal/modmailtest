@@ -2,9 +2,9 @@
   "prefix": "$",
   "lock": false,
   "primaryGuild": {
-    "id": "",
-    "logChannel": "",
-    "categoryID": ""
+    "id": "980500446382800997",
+    "logChannel": "980500446928048137",
+    "categoryID": "986288471587061850"
   },
   "staffGuild": {
     "id": "",
@@ -12,12 +12,12 @@
     "hudChannel": ""
   },
   "logToStaff": false,
-  "readAccess": [""],
-  "writeAccess": [""],
+  "readAccess": ["980500446454116488"],
+  "writeAccess": ["980500446454116491"],
   "blockedUsers": [""],
   "messages": {
-    "ticketCreated": "We have created a new ticket for you! We will get back to regarding your inquiry as soon as possible.",
-    "ticketClosed": "Your ticket has been closed! Thank you for reaching out to us and have a good day.",
+    "ticketCreated": "Твой запрос отправлен. Жди пока придёт админ и свяжется с тобой.",
+    "ticketClosed": "Билет был закрыт!.",
     "blocked": "You have been blocked from direct messaging ModMail.",
     "locked": "ModMail is currently locked from accepting direct messages."
   }
